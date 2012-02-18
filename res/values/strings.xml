@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArtAtArt</string>
+    <string name="menu1">検索条件</string>
+    <string name="menu2">Info</string>
+</resources>
